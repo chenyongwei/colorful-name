@@ -1,4 +1,4 @@
 colorful-name
 =============
 
-Some beautiful works to build colorful class, variable and method name
+Some beautiful works to build colorful name of class, variable, method and even comment.
