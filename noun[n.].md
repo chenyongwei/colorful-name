@@ -1,4 +1,31 @@
 ----
+## svc
+> abbreviation of 'service'
+
+----
+## srv
+> abbreviation of 'server'
+
+----
+## core
+> business logic layer namespace
+
+    App.Core
+
+----
+## data
+> data access layer namespace
+    App.Data
+
+----
+## web
+> web control layer namespace
+
+    App.Web
+
+> one type of application running environment
+
+----
 ## semi
 
 ----
