@@ -1,12 +1,12 @@
 ----
-### hasXXX
+## hasXXX
 1. feature detection, like '.hasTouch'.
 2. property, like '.hasChild'.
 
 ----
-### isXXX
+## isXXX
 > isiOS, isAndroid
 
 ----
-### canDoSomething
+## canDoSomething
     canDriving
